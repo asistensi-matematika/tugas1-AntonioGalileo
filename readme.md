@@ -19,7 +19,7 @@ Nilai maksimum/minimum lokal
 Input : -2 3 0
 
 Output :
-Polinomial x^2 -2x -3 memiliki
+Polinomial -2x^2 + 3x memiliki
 1. Diskriminan               : 9.0
 2. Akar-akar dari polinomial : -0.0 dan 1.5
 3. Titik stasioner           : -0.375 dan 1.125
@@ -29,17 +29,17 @@ Polinomial x^2 -2x -3 memiliki
 Input :1 -2 1
 
 Output :
-Polinomial x^2 -2x -3 memiliki
+Polinomial x^2 -2x +x memiliki
 1. Diskriminan               : 0.0
 2. Akar-akar dari polinomial :1.0 dan 1.0
 3. Titik stasioner           : -0.5 dan -0.0
 4. Kecekungan Kurva          : Atas
 5. Nilai minimum lokal       : -0.0
 
-Input : -3 0 3
+Input : -3 0 -3
 
 Output :
-Polinomial x^2 -2x -3 memiliki
+Polinomial -3x^2 - 3 memiliki
 1. Diskriminan               : -36.0
 2. Akar-akar dari polinomial : NaN dan NaN
 3. Titik stasioner           :  -0.0 dan 3.0
